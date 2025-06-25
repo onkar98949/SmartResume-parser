@@ -1,6 +1,3 @@
-# Streamlit Application Video and Playlist
-# https://www.youtube.com/watch?v=hff2tHUzxJM&list=PLc2rvfiptPSSpZ99EnJbH5LjTJ_nOoSWW
-
 import streamlit as st
 import pymupdf
 
